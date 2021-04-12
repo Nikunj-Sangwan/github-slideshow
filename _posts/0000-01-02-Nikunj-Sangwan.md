@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Capitalism is a conspiracy
 Use the left arrow to go back!
